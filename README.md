@@ -7,6 +7,8 @@ Configured a dedicated DHCP Server
 Connected 4 PCs and 1 laptop
 Configured DHCP for automatic IP address assignment
 Tested connectivity between devices
+
+
 Lab 2 – VLAN and Router DHCP
 Created and configured VLANs
 Connected multiple devices to the network
